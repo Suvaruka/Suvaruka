@@ -5,6 +5,6 @@
 - 📫 How to reach me ...turicaninmilos@gmail.com 
 
 <!---
-Suvaruka/Suvaruka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Suvaruka/Milos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
